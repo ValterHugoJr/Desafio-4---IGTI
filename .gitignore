@@ -1,0 +1,9 @@
+## VScode ##
+.vscode/
+
+## Node ##
+/node_modules
+.env
+
+## Heroku ##
+Procfile
